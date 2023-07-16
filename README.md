@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there 👋 I am Araohat Kokate. I am a Junior at the University of Texas at Arlington majoring in Computer Science, expecting to graduate by Spring 2025. 
+
+- I am to looking to collaborate on software development and UI/UX related projects
+- I am currently learning web development and app development
 
 <!--
 **araohatkokate/araohatkokate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
