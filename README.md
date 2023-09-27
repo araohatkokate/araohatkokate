@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araohatkokate" alt="araohatkokate" /></a> </p>
 
-- 🌱 I’m currently learning **App development and Web development**
+- 🌱 I’m currently learning: **App development and Web development**
 
-- 👨‍💻 All of my projects are available at [araohatkokate.com/](araohatkokate.com/)
+- 👨‍💻 All of my projects are available at: [araohatkokate.com/](https://araohatkokate.com/)
 
-- 📫 How to reach me **araohatk@gmail.com**
+- 📫 How to reach me: **araohatk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kBb4ohpE5zi-GQfgdsXQmpj3_oi4jDNs/view](https://drive.google.com/file/d/1kBb4ohpE5zi-GQfgdsXQmpj3_oi4jDNs/view)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1kBb4ohpE5zi-GQfgdsXQmpj3_oi4jDNs/view](https://drive.google.com/file/d/1kBb4ohpE5zi-GQfgdsXQmpj3_oi4jDNs/view)
 
-- ⚡ Fun fact **I can speak in 4 languages!**
+- ⚡ Fun fact: **I can speak in 4 languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
