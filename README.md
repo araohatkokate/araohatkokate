@@ -23,9 +23,9 @@
 
 <h3 align="left">My most used languages:</h3>
 <p><img style="color:grey" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araohatkokate&show_icons=true&locale=en&layout=compact" alt="araohatkokate" /></p>
-<p><br></p>
+
 <h3 align="left">My current github stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=araohatkokate&show_icons=true&locale=en" alt="araohatkokate" /></p>
+<p>&nbsp;< <br > img align="center" src="https://github-readme-stats.vercel.app/api?username=araohatkokate&show_icons=true&locale=en" alt="araohatkokate" /></p>
 
 
 
