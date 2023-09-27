@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Araohat Kokate</h1>
+<h1 style="color:white" align="center">Hi 👋, I'm Araohat Kokate</h1>
 <h3 align="center">I'm a software developer from Arlington, TX. Currently a Junior stuying Computer Science at the University of Texas at Arlington.</h3>
 
 - 🌱 I’m currently learning: **App development and Web development**
