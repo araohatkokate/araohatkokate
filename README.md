@@ -1,10 +1,5 @@
-<style>
-  .custom-text{
-   color: white;
-  }
-</style>
-<h1 class="custom-text" align="center">Hi 👋, I'm Araohat Kokate</h1>
-<h3 class="custom-text" align="center">I'm a software developer from Arlington, TX. Currently a Junior stuying Computer Science at the University of Texas at Arlington.</h3>
+<h1 align="center">Hi 👋, I'm Araohat Kokate</h1>
+<h3 align="center">I'm a software developer from Arlington, TX. Currently a Junior stuying Computer Science at the University of Texas at Arlington.</h3>
 
 - 🌱 I’m currently learning: **App development and Web development**
 
