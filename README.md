@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Araohat Kokate</h1>
 <h3 align="center">I'm a software developer from Arlington, TX. Currently a Junior stuying Computer Science at the University of Texas at Arlington.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araohatkokate" alt="araohatkokate" /></a> </p>
-
 - 🌱 I’m currently learning: **App development and Web development**
 
 - 👨‍💻 All of my projects are available at: [araohatkokate.com/](https://araohatkokate.com/)
