@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **App development and Web development**
 
-- 👨‍💻 All of my projects are available at [araohatkokate.com/](araohatkokate.com/)
+- 👨‍💻 All of my projects are available at [araohatkokate.com/](araohatkokate.com)
 
 - 📫 How to reach me **araohatk@gmail.com**
 
