@@ -10,6 +10,7 @@
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1kBb4ohpE5zi-GQfgdsXQmpj3_oi4jDNs/view](https://drive.google.com/file/d/1kBb4ohpE5zi-GQfgdsXQmpj3_oi4jDNs/view)
 
 - ⚡ Fun fact: **I can speak in 4 languages!**
+
 <style>
   .section-heading {
     display: inline; 
