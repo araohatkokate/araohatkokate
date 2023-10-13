@@ -13,7 +13,7 @@
 <style>
   .section-heading {
     display: inline; 
-    margin-right: 50 px; 
+    margin-right: 20 px; 
   }
 </style>
 
