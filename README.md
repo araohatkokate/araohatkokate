@@ -14,7 +14,7 @@
   .section-heading {
     display: inline; 
     margin-right: 20 px; 
-  } 
+  }  
 </style>
 
 <h3 class="section-heading" align="left">Connect with me:</h3>
