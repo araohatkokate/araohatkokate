@@ -41,11 +41,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">My most used languages:</h3>
+<h3 class="section-heading" align="left">My most used languages:</h3>
 <p><img style="color:grey" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araohatkokate&show_icons=true&locale=en&layout=compact" alt="araohatkokate" /></p>
 
-<h3 align="left">My current github stats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=araohatkokate&show_icons=true&locale=en" alt="araohatkokate" /></p> 
+<h3 class="section-heading" align="center">My current github stats:</h3>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=araohatkokate&show_icons=true&locale=en" alt="araohatkokate" /></p> 
 
 
 
