@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **araohatk@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1kBb4ohpE5zi-GQfgdsXQmpj3_oi4jDNs/view](https://drive.google.com/file/d/1kBb4ohpE5zi-GQfgdsXQmpj3_oi4jDNs/view)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/17Bg8bcRC2ePxmHWzno8eo9BTUdaJGsuH/view](https://drive.google.com/file/d/17Bg8bcRC2ePxmHWzno8eo9BTUdaJGsuH/view)
 
 - ⚡ Fun fact: **I can speak in 4 languages!**
 <!--
